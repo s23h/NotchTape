@@ -20,9 +20,13 @@ NotchTape displays scrolling information in your menu bar — HackerNews headlin
 
 ### Can't open the app?
 
-Right-click `NotchTape.app` → Click `Open` → Click `Open` again.
+Run this in Terminal:
 
-(Apple requires $119/year to remove the unsigned app warning.)
+```bash
+xattr -cr /Applications/NotchTape.app
+```
+
+Then double-click to open. (Apple requires $99/year to sign apps and remove this step.)
 
 ## Configuration
 
