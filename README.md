@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="_assets/icon.png" width="128" height="128" alt="NotchTape icon" />
   <h1>NotchTape</h1>
   <p>A macOS menu bar app that turns the space around your notch into a passive information feed.</p>
   <p><a href="https://s23h.com/blog/notchtape">Read the blog post →</a></p>
@@ -26,7 +27,9 @@ Run this in Terminal:
 xattr -cr /Applications/NotchTape.app
 ```
 
-Then double-click to open. (Apple requires $99/year to sign apps and remove this step.)
+Then double-click to open. If you still get a warning, right-click the app → **Open** → **Open**.
+
+(Apple requires $99/year to sign apps and remove this step.)
 
 ## Configuration
 
