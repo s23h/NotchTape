@@ -1,13 +1,14 @@
 <div align="center">
   <h1>NotchTape</h1>
   <p>A macOS menu bar app that turns the space around your notch into a passive information feed.</p>
+  <p><a href="https://s23h.com/blog/notchtape">Read the blog post →</a></p>
 </div>
 
 ## What it does
 
 NotchTape displays scrolling information in your menu bar — HackerNews headlines on the left, stock movements on the right. Passive information absorption without context switching.
 
-<img src="_assets/intro/after.png" />
+<img src="_assets/intro/after.png" width="100%" />
 
 ## Installation
 
